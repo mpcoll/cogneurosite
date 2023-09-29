@@ -7,7 +7,7 @@ root: content/intro
 chapters:
 - file: content/activitesavenir
 - file: content/activitespassees
-- file: content/Comité organisateur
+- file: content/comite
   # - file: content/Notes et exercices
   # - file: content/Questions préparatoires
 
