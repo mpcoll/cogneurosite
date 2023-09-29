@@ -4,11 +4,10 @@
 # @Last Modified time: 2023-08-24 14:44:22
 format: jb-book
 root: content/intro
-parts:
-  chapters:
-  - file: content/activitesavenir
-  - file: content/activitespassees
-  - file: content/Comité organisateur
+chapters:
+- file: content/activitesavenir
+- file: content/activitespassees
+- file: content/Comité organisateur
   # - file: content/Notes et exercices
   # - file: content/Questions préparatoires
 

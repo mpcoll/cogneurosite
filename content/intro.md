@@ -1,4 +1,4 @@
-# Comité organisateur
+# CogNeuro Laval
 
 
 ## Membres étudiant.e.s
