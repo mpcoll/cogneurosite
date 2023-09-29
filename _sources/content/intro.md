@@ -1,18 +1,11 @@
 # CogNeuro Laval
 
 
-## Membres étudiant.e.s
 
 <img src="../images/logo/logobig.png" width="1000"/>
-Carole Bélanger (Étudiante au doctorat en psychologie, Automne 2022-...)
 
 
 
-## Membres profeseur.e.s
-
-Isabelle Blanchette (Professeure, Automne 2022-...) 
-Michel-Pierre Coll (Professeur, Automne 2023-...) 
-François Vachon (Professeur, Automne 2022-...) 
 <!-- 
 <img src="../images/instructors/wasita.png" width="200"/>
 
