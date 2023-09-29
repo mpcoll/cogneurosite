@@ -1,4 +1,4 @@
-# Enseignants
+# Activités passées
 
 ## Professeur.e.s
 
