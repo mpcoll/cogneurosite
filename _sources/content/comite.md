@@ -1,11 +1,17 @@
-# CogNeuro Laval
+# Comité organisateur
 
 
 ## Membres étudiant.e.s
 
-<img src="../images/logo/logobig.png" width="1000"/>
+<img src="../images/instructors/mpcoll_portrait.jpeg" width="150"/>
 Carole Bélanger (Étudiante au doctorat en psychologie, Automne 2022-...)
 
+
+<img src="../images/instructors/mpcoll_portrait.jpeg" width="150"/>
+Adam Fahmi (Étudiant au doctorat en psychologie, Automne 2022-...)
+
+<img src="../images/instructors/mpcoll_portrait.jpeg" width="150"/>
+Clara Morais-Cormier (Étudiante au doctorat en psychologie, Automne 2022-...)
 
 
 ## Membres profeseur.e.s
