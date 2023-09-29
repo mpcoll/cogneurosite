@@ -9,8 +9,8 @@
 
 #######################################################################################
 # Book settings
-title: StatsPsy # The title of the book. Will be placed in the left navbar.
-author: Michel-Pierre Coll # The author of the book
+title: CogNeuro Laval # The title of the book. Will be placed in the left navbar.
+author: Équpie CogNeuro # The author of the book
 copyright: '2023' # Copyright year to be placed in the footer
 logo: 'images/logo/logo.png' # A path to a logo image
 
@@ -43,13 +43,13 @@ parse:
 # HTML-specific settings
 html:
   favicon: 'images/logo/favicon.ico' # A path to a favicon image
-  use_edit_page_button: true # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
+  use_edit_page_button: false # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button: true # Whether to add a link to your repository button
-  use_issues_button: true # Whether to add an "open an issue" button
+  use_issues_button: false # Whether to add an "open an issue" button
   extra_navbar: "" # Will be displayed underneath the left navbar.
-  extra_footer: Projet supporté par le <a href='https://www.enseigner.ulaval.ca/appui-a-l-innovation/programme-d-appui-l-innovation-pedagogique'>Programme d'appui à l'innovation pédagogique de l'Université Laval. </a> <img src="https://mpcoll.github.io/psy7000v2/_images/ulavallogo.png" width="200">
+  extra_footer: ""
   home_page_in_navbar: true # Whether to include your home page in the left Navigation Bar
-  baseurl: 'http://www.mpcoll.github.io/psy7000v2' # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl: 'http://www.mpcoll.github.io/cogneurosite' # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
     hypothesis: false
     utterances: false
@@ -60,16 +60,16 @@ latex:
   latex_engine: pdflatex # one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
 
 #######################################################################################
-# Launch button settings
-launch_buttons:
-  notebook_interface: classic # The interface interactive links will activate ["classic", "jupyterlab"]
-  thebe: true # Add a thebe button to pages (requires the repository to run on Binder)
-  colab_url: https://colab.research.google.com # The URL of Google Colab (e.g., https://colab.research.google.com)
+# # Launch button settings
+# launch_buttons:
+#   notebook_interface: classic # The interface interactive links will activate ["classic", "jupyterlab"]
+#   thebe: false # Add a thebe button to pages (requires the repository to run on Binder)
+#   colab_url: https://colab.research.google.com # The URL of Google Colab (e.g., https://colab.research.google.com)
 
 repository:
-  url: https://github.com/mpcoll/psy7000v2 # The URL to your book's repository
+  url: https://github.com/mpcoll/cogneurosite # The URL to your book's repository
   path_to_book: '' # A path to your book's folder, relative to the repository root.
-  branch: master # Which branch of the repository should be used when creating links
+  branch: main # Which branch of the repository should be used when creating links
 
 #######################################################################################
 # Advanced and power-user settings
