@@ -1,3 +1,8 @@
+
+
+
+# Bienvenue sur le site de CogNeuro Laval!
+
 CogNeuro Laval est un [groupe d'étudiant.e.s et professeur.e.s](https://mpcoll.github.io/cogneurosite/content/comite.html) de l'Université Laval qui s'intéressent à la cognition et les neurosciences cognitives. Nous organisons des séminaires ainsi que des activités de formation et de réseautage pour les étudiant.e.s et professeur.e.s intéressé.e.s par la neuroscience cognitive.
 
 
@@ -9,8 +14,8 @@ CogNeuro Laval est un [groupe d'étudiant.e.s et professeur.e.s](https://mpcoll.
 ### Lieu : FAS-062
 ### Présentateur : Alexandre Marois, Ph.D. Professeur adjoint, École de Psychologie, Université Laval
 
-<img src="../images/presentateur/amarois.png" width="150"/>
-
+<p align="center">
+<img src="../images/presentateur/amarois.jpg" width="150"/>
 
 ## Collaborations industrielles : un moteur pour la recherche appliquée en facteurs humains
 
