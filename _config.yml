@@ -76,4 +76,4 @@ repository:
 sphinx:
   extra_extensions: # A list of extra extensions to load by Sphinx (added to those already used by JB).
   config:
-      'html_theme_options': {'prev_next_buttons_location': None}
+      html_theme_options: {'prev_next_buttons_location': None}
