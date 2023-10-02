@@ -77,6 +77,6 @@ sphinx:
   extra_extensions: # A list of extra extensions to load by Sphinx (added to those already used by JB).
   config:
       recursive_update: true
-      html_theme_options: {'prev_next_buttons_location': None,  "rightsidebar": "false",
+      html_theme_options: {"prev_next_buttons_location": none,  "rightsidebar": False,
       "search_bar_text": "Recherche..."}
       language: fr
