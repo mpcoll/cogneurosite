@@ -74,9 +74,17 @@ repository:
 #######################################################################################
 # Advanced and power-user settings
 sphinx:
+  html_context:
+    default_mode: light
   extra_extensions: # A list of extra extensions to load by Sphinx (added to those already used by JB).
   config:
       recursive_update: true
-      html_theme_options: {"prev_next_buttons_location": none,  "rightsidebar": False,
-      "search_bar_text": "Recherche..."}
+      html_theme_options:
+        prev_next_buttons_location: None
+        rightsidebar: False
+        search_bar_text": "Recherche..."
+        logo:
+          image_light: 'images/logo/logo.png'
+          image_dark: 'images/logo/logodark.png'
+
       language: fr
