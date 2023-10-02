@@ -10,7 +10,7 @@
 #######################################################################################
 # Book settings
 title: CogNeuro Laval # The title of the book. Will be placed in the left navbar.
-author: Équpie CogNeuro # The author of the book
+author: Équipe CogNeuro # The author of the book
 copyright: '2023' # Copyright year to be placed in the footer
 logo: 'images/logo/logo.png' # A path to a logo image
 
@@ -76,6 +76,7 @@ repository:
 sphinx:
   extra_extensions: # A list of extra extensions to load by Sphinx (added to those already used by JB).
   config:
+      recursive_update: true
       html_theme_options: {'prev_next_buttons_location': None,  "rightsidebar": "false",
       "search_bar_text": "Recherche..."}
       language: fr
