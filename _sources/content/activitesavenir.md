@@ -2,13 +2,12 @@
 
 ## Calendrier des rencontres 2023-2024
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQYReB5Sods5ndNUKAyqDNttCV3MN169qp8sUDv7Jf7H416MRYQnSkeAKLgTx1R4Q/pub?embedded=true" frameborder="0" scrolling="no" seamless="seamless" style="display:block; width:100%; height:140vh;"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQYReB5Sods5ndNUKAyqDNttCV3MN169qp8sUDv7Jf7H416MRYQnSkeAKLgTx1R4Q/pub?embedded=true" frameborder="0" scrolling="no" seamless="seamless" style="display:block; width:100%; height:120vh;"></iframe>
 
 ## Prochaine rencontre:
 
-Date : 5 octobre 2023 à 15h30
-Lieu : FAS-062
-### Conférence: Alexandre Marois, Ph.D. Professeur adjoint, École de Psychologie, Université Laval
+### Date : 5 octobre 2023 à 15h30 Lieu : FAS-062
+### Conférence: [Alexandre Marois, Ph.D. Professeur adjoint, École de Psychologie, Université Laval](https://www.fss.ulaval.ca/notre-faculte/repertoire-du-personnel/alexandre-marois)
 
 ```{image} ../images/presentateur/amarois.jpg
 :alt: alexandre marois
