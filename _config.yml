@@ -49,7 +49,7 @@ html:
   extra_navbar: "" # Will be displayed underneath the left navbar.
   extra_footer: ""
   home_page_in_navbar: true # Whether to include your home page in the left Navigation Bar
-  baseurl: 'http://www.mpcoll.github.io/cogneurosite' # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl: 'cogneurolaval.ca' # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
     hypothesis: false
     utterances: false
@@ -76,4 +76,6 @@ repository:
 sphinx:
   extra_extensions: # A list of extra extensions to load by Sphinx (added to those already used by JB).
   config:
-      html_theme_options: {'prev_next_buttons_location': None}
+      html_theme_options: {'prev_next_buttons_location': None,  "rightsidebar": "false",
+      "search_bar_text": "Recherche..."}
+      language: fr
