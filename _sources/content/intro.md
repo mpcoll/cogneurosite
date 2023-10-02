@@ -1,11 +1,7 @@
 
-
-
-# Bienvenue sur le site de CogNeuro Laval!
+# Accueil
 
 CogNeuro Laval est un [groupe d'étudiant.e.s et professeur.e.s](https://mpcoll.github.io/cogneurosite/content/comite.html) de l'Université Laval qui s'intéressent à la cognition et les neurosciences cognitives. Nous organisons des séminaires ainsi que des activités de formation et de réseautage pour les étudiant.e.s et professeur.e.s intéressé.e.s par la neuroscience cognitive.
-
-
 
 ## Prochaine rencontre:
 
