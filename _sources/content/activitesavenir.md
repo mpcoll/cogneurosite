@@ -2,7 +2,7 @@
 
 ## Calendrier des rencontres 2023-2024
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQYReB5Sods5ndNUKAyqDNttCV3MN169qp8sUDv7Jf7H416MRYQnSkeAKLgTx1R4Q/pub?embedded=true" frameborder="0" scrolling="no" seamless="seamless" style="display:block; width:100%; height:120vh;"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQYReB5Sods5ndNUKAyqDNttCV3MN169qp8sUDv7Jf7H416MRYQnSkeAKLgTx1R4Q/pub?embedded=true" frameborder="0" scrolling="no" seamless="seamless" style="display:block; width:100%; height:100%;"></iframe>
 
 ## Prochaine rencontre:
 
