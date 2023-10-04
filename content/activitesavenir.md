@@ -1,22 +1,17 @@
+
+
 # Activités à venir
+
+## Prochaine rencontre:
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSL5W2BFWgweu28FK5axsW6s2ei2huv83CBJvzSg42bY9mixAsM3ZZNoY9MVzyV5g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="816" height="1085" allowfullscreen="false" mozallowfullscreen="false" webkitallowfullscreen="false"></iframe>
+
+
+## Autres activités à venir
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQB_csXtTuaq8_MLnfpFaYdzP8pdbX97GDu86SzzI0qhtGYYXTHPJhKYRxdesdgfw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="816" height="1085" allowfullscreen="false" mozallowfullscreen="false" webkitallowfullscreen="false"></iframe>
+
 
 ## Calendrier des rencontres 2023-2024
 
 <iframe width='100%' height='800' src="https://docs.google.com/document/d/e/2PACX-1vQYReB5Sods5ndNUKAyqDNttCV3MN169qp8sUDv7Jf7H416MRYQnSkeAKLgTx1R4Q/pub?embedded=true"> display:block;</iframe>
-
-## Prochaine rencontre:
-
-### Date : 5 octobre 2023 à 15h30 Lieu : FAS-062
-### Conférence: [Alexandre Marois, Ph.D. Professeur adjoint, École de Psychologie, Université Laval](https://www.fss.ulaval.ca/notre-faculte/repertoire-du-personnel/alexandre-marois)
-
-```{image} ../images/presentateur/amarois.jpg
-:alt: alexandre marois
-:class: bg-primary mb-1
-:width: 200px
-:align: center
-```
-### Collaborations industrielles : un moteur pour la recherche appliquée en facteurs humains
-
-Le domaine des facteurs humains s'intéresse aux capacités et limites pouvant influencer l'interaction des individus au sein de leur environnement, plus spécifiquement dans des situations réelles. Les recherches issues de ce domaine sont notamment centrées sur les failles cognitives pouvant émerger, par exemple, lorsqu'une personne fait face au stress, à la surcharge mentale ou à la fatigue. De telles problématiques ouvrent la voie à une panoplie de recherches appliquées, mais également au développement d'outils et de méthodes pour se prémunir de ces situations et, ultimement, réduire l'erreur humaine. Ces besoins opérationnels motivent les activités de recherche et développement (R&D), créant des opportunités de collaboration entre les milieux industriels et académiques. Cette présentation discute de la complémentarité qui existe entre les milieux académiques et industriels et donne des exemples de projets de R&D menant tant à l'avancement des connaissances qu'à la création de solutions concrètes pouvant réduire l'erreur humaine dans une diversité de cas d'usages.
-
-## Autres rencontres à venir
