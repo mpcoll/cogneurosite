@@ -2,7 +2,7 @@
 
 # Activités à venir
 
-TEST SITE
+TEST SIT
 
 ## Prochaine rencontre:
 
