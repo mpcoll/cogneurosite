@@ -2,7 +2,7 @@
 
 # Activités à venir
 
-TEST SIT
+
 
 ## Prochaine rencontre:
 
