@@ -2,6 +2,8 @@
 
 # Activités à venir
 
+TEST SIT
+
 ## Prochaine rencontre:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSL5W2BFWgweu28FK5axsW6s2ei2huv83CBJvzSg42bY9mixAsM3ZZNoY9MVzyV5g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="816" height="1085" allowfullscreen="false" mozallowfullscreen="false" webkitallowfullscreen="false"></iframe>
