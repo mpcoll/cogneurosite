@@ -2,17 +2,13 @@
 
 # Activités à venir
 
-
-
-
 ## Prochaine rencontre:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSL5W2BFWgweu28FK5axsW6s2ei2huv83CBJvzSg42bY9mixAsM3ZZNoY9MVzyV5g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="816" height="1085" allowfullscreen="false" mozallowfullscreen="false" webkitallowfullscreen="false"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQB_csXtTuaq8_MLnfpFaYdzP8pdbX97GDu86SzzI0qhtGYYXTHPJhKYRxdesdgfw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="816" height="1085" allowfullscreen="false" mozallowfullscreen="false" webkitallowfullscreen="false"></iframe>
 
 
 ## Autres activités à venir
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQB_csXtTuaq8_MLnfpFaYdzP8pdbX97GDu86SzzI0qhtGYYXTHPJhKYRxdesdgfw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="816" height="1085" allowfullscreen="false" mozallowfullscreen="false" webkitallowfullscreen="false"></iframe>
 
 
 ## Calendrier des rencontres 2023-2024
