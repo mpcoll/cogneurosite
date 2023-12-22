@@ -5,11 +5,11 @@
 CogNeuro Laval est un [groupe d'étudiant.e.s et professeur.e.s](https://mpcoll.github.io/cogneurosite/content/comite.html) de l'Université Laval qui s'intéressent à la cognition et à la neuroscience cognitive. Nous organisons des séminaires ainsi que des activités de formation et de réseautage pour les étudiant.e.s et professeur.e.s intéressé.e.s par ces thèmes de recherche.
 
 
-## Calendrier des rencontres 2023-2024
+## Calendrier des rencontres 2024
 
 [Cliquez-ici](https://mpcoll.github.io/cogneurosite/content/activitesavenir.html) pour la description complète des activités à venir!
 
-<iframe width='100%' height='800' src="https://docs.google.com/document/d/e/2PACX-1vQYReB5Sods5ndNUKAyqDNttCV3MN169qp8sUDv7Jf7H416MRYQnSkeAKLgTx1R4Q/pub?embedded=true"> display:block;</iframe>
+<iframe width='100%' height='400' src="https://docs.google.com/document/d/e/2PACX-1vQYReB5Sods5ndNUKAyqDNttCV3MN169qp8sUDv7Jf7H416MRYQnSkeAKLgTx1R4Q/pub?embedded=true"> display:block;</iframe>
 
 <!-- ### Date : 5 octobre 2023 à 15h30 Lieu : FAS-062
 ### Conférence: [Alexandre Marois, Ph.D. Professeur adjoint, École de Psychologie, Université Laval](https://www.fss.ulaval.ca/notre-faculte/repertoire-du-personnel/alexandre-marois)
