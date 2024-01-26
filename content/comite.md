@@ -2,10 +2,12 @@
 
 
 ## Membres 2023-2024
-Carole Bélanger (Étudiante au doctorat en psychologie, Automne 2022-...)  
-Adam Fahmi (Étudiant au doctorat en psychologie, Automne 2022-...)  
-Clara Morais-Cormier (Étudiante au doctorat en psychologie, Automne 2023-...)  
-Isabelle Blanchette (Professeure, Automne 2022-...)  
-François Vachon (Professeur, Automne 2022-...)  
-Michel-Pierre Coll (Professeur, Automne 2023-...) 
+Carole Bélanger (Étudiante au doctorat en psychologie)
+Adam Fahmi (Étudiant au doctorat en psychologie)
+Clara Morais-Cormier (Étudiante au doctorat en psychologie)
+
+Isabelle Blanchette (Professeure)
+Michel-Pierre Coll (Professeur)
+François Vachon (Professeur)
+
 
