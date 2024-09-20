@@ -6,11 +6,13 @@ CogNeuro Laval est un [groupe d'étudiant.e.s et professeur.e.s](https://mpcoll.
 
 [Suivez nous sur Facebook! ](https://www.facebook.com/groups/608018160316428)
 
-## Calendrier des rencontres 2024
-
 [Cliquez-ici](https://mpcoll.github.io/cogneurosite/content/activitesavenir.html) pour la description complète des activités à venir!
 
-<iframe width='100%' height='400' src="https://docs.google.com/document/d/e/2PACX-1vQYReB5Sods5ndNUKAyqDNttCV3MN169qp8sUDv7Jf7H416MRYQnSkeAKLgTx1R4Q/pub?embedded=true"> display:block;</iframe>
+
+## Calendrier des rencontres - Automne 2024
+
+<iframe width='100%' height='500' src="https://docs.google.com/document/d/1HGuPQ3QcIe4HzX_6mAoVZKanXStc6cMBk2Twln2krKw/pub?embedded=true"> display:block;</iframe>
+
 
 <!-- ### Date : 5 octobre 2023 à 15h30 Lieu : FAS-062
 ### Conférence: [Alexandre Marois, Ph.D. Professeur adjoint, École de Psychologie, Université Laval](https://www.fss.ulaval.ca/notre-faculte/repertoire-du-personnel/alexandre-marois)
