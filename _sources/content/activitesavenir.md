@@ -6,7 +6,7 @@
 
 ### 24 octobre 2024 à 15h30 Lieu : FAS-1113
 *Katherine Labonté,  PH.D. et Professionnelle de recherche à l’Université Laval en psychologie et en marketing*
-Présentations de projets de recherche portant sur la psychologie cognitive appliquée à la réactivité aux stimuli alimentaires et à la consommation de nourriture. Résunmé complet à venir.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAAI0Hk6YyRWqcrJDXutC4c3e5oQWCXYrHknJCHUHUqe_nmj6cAS1JzncQhbb3OQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="816" height="1085" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Calendrier des rencontres - Automne 2024
