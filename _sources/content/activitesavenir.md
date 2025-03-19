@@ -11,5 +11,5 @@
 
 ## Calendrier des rencontres - Automne 2024
 
-<iframe width='100%' height='800' src="https://docs.google.com/document/d/1HGuPQ3QcIe4HzX_6mAoVZKanXStc6cMBk2Twln2krKw/pub?embedded=true"> display:block;</iframe>
+<iframe width='100%' height='800' src="https://docs.google.com/document/d/e/2PACX-1vSatph35cJjSCe4qXLippyGUk2HiZR7ZCT5yjCNb6fgawbsqa4S7F_Wo586UqyMDWv6mZFW5G59pYg2/pub"> display:block;</iframe>
 
