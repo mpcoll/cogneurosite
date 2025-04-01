@@ -2,7 +2,7 @@
 
 # Activités à venir
 
-<!-- 
+<!-- section en commentaire :
 
 ## Prochaine rencontre:
 
@@ -15,4 +15,4 @@
 
 <iframe width='100%' height='800' src="https://docs.google.com/document/d/e/2PACX-1vSatph35cJjSCe4qXLippyGUk2HiZR7ZCT5yjCNb6fgawbsqa4S7F_Wo586UqyMDWv6mZFW5G59pYg2/pub"> display:block;</iframe>
 
-Ton commentaire ici -->
+-->
