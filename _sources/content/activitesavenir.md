@@ -2,8 +2,8 @@
 
 # Activités à venir
 
-## Prochaine rencontre:
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTjqY1lPnsLgHRPHoeglCj9qa-BPTqa8RvaTjsPTmietfscqQewqQbuA_J7gWf_4g/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="816" height="1085" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+## Prochaine rencontre :
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQki5uRQsX96Zyx8Mk5_HWY69YI0v4yp_2xPQTk87jHcSCZ1HEIebsaM9bciARSDQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="816" height="1085" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <!-- section en commentaire :
 
